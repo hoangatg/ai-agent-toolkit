@@ -1,0 +1,31 @@
+{
+  "name": "ai-agent-toolkit",
+  "version": "3.1.0",
+  "description": "The most comprehensive AI coding toolkit — 43 Agents, 95 Skills, 37 Workflows. Turn any AI assistant into a domain expert.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangatg/ai-agent-toolkit.git"
+  },
+  "homepage": "https://github.com/hoangatg/ai-agent-toolkit#readme",
+  "bugs": {
+    "url": "https://github.com/hoangatg/ai-agent-toolkit/issues"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "toolkit",
+    "skills",
+    "gemini",
+    "claude",
+    "cursor",
+    "copilot",
+    "coding-assistant",
+    "cursor-rules",
+    "ai-coding",
+    "developer-tools",
+    "workflows",
+    "prompt-engineering"
+  ],
+  "author": "hoangatg",
+  "license": "MIT"
+}

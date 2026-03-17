@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Temp files
+.temp_ag_kit/
+
+# Build output
+web/.next/
+web/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
